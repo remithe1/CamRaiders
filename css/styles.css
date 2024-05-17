@@ -1,0 +1,65 @@
+#top{
+text-align: center;
+border:solid;
+border-color: black;
+color: black;
+font-size: 2rem;
+}
+.overview{
+background-color: black;
+padding-top: 3% ;
+padding-bottom:3% ;
+}
+body{
+    background-color: red;
+}
+h1{
+color: red;
+text-align: center;
+font-size: 3rem;
+font-family:sans-serif ;
+}
+h2{
+color: red;
+text-align: center;
+font-size: 2rem;
+font-family: sans-serif;
+}
+h3{
+color: white;
+text-align: center;
+font-family: sans-serif;
+}
+#logo{
+padding-left: 35%;
+}
+.info{
+background-color: grey;
+padding-top: 5%;
+padding-bottom: 5%;
+font-size: 1rem;
+text-align: center;
+}
+button{
+border: solid;
+border-color: grey;
+background-color: grey;
+font-size: 1rem;
+font-family:'Times New Roman', Times, serif;
+color: white;
+}
+#reviews{
+    background-color: black;
+   color: white;
+}
+.carouselimage{
+   padding-left: 20%;
+ height: 250px;
+}
+.Quicklinks{
+    font-size: 1.7rem;
+    border-color: black;
+    color: black;
+    background-color: w;
+
+}
